@@ -1,6 +1,9 @@
-# 🚀 Vinod Kumar Neelakantam | Senior Software Integrator & Release Manager
+ # ![Passport_linkedin](https://github.com/user-attachments/assets/f3e38df2-9859-4762-b6aa-9c651957f8f0) 
+   🚀 Vinod Kumar Neelakantam 
+   # Senior Software Integrator & Release Manager
 
-### 👨‍�� About Me
+
+###  About Me
 I am an accomplished Engineering Professional with over **12 years of experience** in Automotive Embedded Software Development and CI/CD/CT. Currently based in **Neu Ulm, Germany**, I serve as a **Platform Integrator** at **Continental**, where I specialize in bridging the gap between low-level hardware and modern cloud-native infrastructures.
 
 * 🎓 **Education**: Master's Degree in **Embedded & VLSI Design System**.
