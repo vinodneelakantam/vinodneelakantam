@@ -17,11 +17,11 @@ I am an accomplished Engineering Professional with over **12 years of experience
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **DevOps & CI/CD** | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Artifactory](https://img.shields.io/badge/Artifactory-40A247?style=for-the-badge&logo=jfrog&logoColor=white) |
 | **Build & Integration** | ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | **Embedded Tools** | ![Lauterbach](https://img.shields.io/badge/Lauterbach-T32-blue?style=for-the-badge) ![Canoe](https://img.shields.io/badge/Vector-CANoe-violet?style=for-the-badge) ![UDS](https://img.shields.io/badge/UDS-Protocol-green?style=for-the-badge) |
-| **Standards & Agile** | ![ASPICE](https://img.shields.io/badge/ASPICE-Quality-blue?style=for-the-badge) ![Jira](https://img.shields.io/badge/jira-%230a4595.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
+| **Standards & Agile** | ![ASPICE](https://img.shields.io/badge/ASPICE-Quality-blue?style=for-the-badge) ![IBM DOORS](https://img.shields.io/badge/IBM_DOORS-054ADA?style=for-the-badge&logo=ibm&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230a4595.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
 
 ---
 
@@ -35,8 +35,15 @@ I am an accomplished Engineering Professional with over **12 years of experience
 ---
 
 ### 📊 GitHub Insights
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodneelakantam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodneelakantam&layout=compact&theme=vision-friendly-dark)
+
+<p align="center">
+  <a href="https://github.com/vinodneelakantam">
+    <img src="https://github-readme-stats.vercel.app/api?username=vinodneelakantam&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  </a>
+  <a href="https://github.com/vinodneelakantam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodneelakantam&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  </a>
+</p>
 
 ---
 
