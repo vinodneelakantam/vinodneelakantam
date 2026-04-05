@@ -33,19 +33,6 @@ I am an accomplished Engineering Professional with over **12 years of experience
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <a href="https://github.com/vinodneelakantam">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinodneelakantam&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  </a>
-  <a href="https://github.com/vinodneelakantam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodneelakantam&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>
-</p>
-
----
-
 ### 📫 Connect with Me
 * **LinkedIn**: [linkedin.com/in/vinodneelakantam](https://www.linkedin.com/in/vinodneelakantam)
 * **Location**: Neu Ulm, Germany 🇩🇪
