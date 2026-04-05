@@ -1,4 +1,3 @@
- # ![Passport_linkedin](https://github.com/user-attachments/assets/f3e38df2-9859-4762-b6aa-9c651957f8f0) 
    🚀 Vinod Kumar Neelakantam 
    # Senior Software Integrator & Release Manager
 
