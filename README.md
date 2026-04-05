@@ -1,5 +1,5 @@
    🚀 Vinod Kumar Neelakantam 
-   # Senior Software Integrator & Release Manager
+   # Software Integrator | Release Manager | Embedded DevOps Specialist
 
 
 ###  About Me
