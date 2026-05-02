@@ -1,14 +1,10 @@
-   🚀 Vinod Kumar Neelakantam 
-   # Software Integrator | Release Manager | Embedded DevOps
+<div align="center">
 
+# 🚀 Vinod Kumar Neelakantam
+## Software Integrator | Release Manager | Embedded DevOps
 
-###  About Me
-I am an accomplished Engineering Professional with over **12 years of experience** in Automotive Embedded Software Development and CI/CD/CT. Currently based in **Neu Ulm, Germany**, I serve as a **Platform Integrator** at **Continental**, where I specialize in bridging the gap between low-level hardware and modern cloud-native infrastructures.
+</div>
 
-* 🎓 **Education**: Master's Degree in **Embedded & VLSI Design System**.
-* 🛠️ **Mindset**: A "**jack of all trades**" approach that drives innovation and teamwork to deliver impactful results in automotive software.
-* 📜 **Certification**: **ISTQB** Certified Tester.
-* 🌍 **Languages**: **English** and **German**.
 
 ---
 
@@ -24,15 +20,76 @@ I am an accomplished Engineering Professional with over **12 years of experience
 
 ---
 
-### 🌟 Professional Impact
-* **Automation & Cybersecurity**: Authored custom tools for **OTC signing** (cybersecurity compliance) and **PDX generation** for OEM-specific flashing.
-* **Pipeline Optimization**: Created a **Build-time Profiler** to analyze build stages, enabling significant improvements in pipeline efficiency.
-* **Infrastructure as Code**: Led team efforts to implement **IT-Kyverno policies** and managed **Docker/Kubernetes** environments to maintain infrastructure integrity.
-* **Release Management**: Managed end-to-end release chains for **ADAS and Surround View** systems for customers like **VW** and **Audi**.
-* **Quality & Audits**: Served as **ASPICE Quality Coordinator** and Integration Manager, achieving "GREEN" ratings in critical audits.
+###  About Me
+Software Integrator with **12+ years of experience** in automotive embedded software integration, CI/CD build infrastructure, and engineering tools automation. Proven expertise in designing and operating scalable build, integration, and release pipelines using **Jenkins, Git, CMake, Docker, and Kubernetes**. Strong background in ASPICE-compliant integration processes, data-driven engineering, and cross-functional release coordination. Experienced in delivering internal tooling and infrastructure solutions that improve efficiency, standardization, and software quality in regulated automotive environments.
+
+---
+
+### Planning & Strategy
+* Defined and maintained software integration strategies for automotive embedded systems across ADAS, camera, radar, and engine management domains.
+* Planned and coordinated software build and release activities across global development teams in collaboration with Project Managers, Architects, Test Managers, and Product Owners.
+* Owned end-to-end release planning and execution, including dependency management, milestone alignment, and delivery readiness.
+* Established and tracked integration KPIs such as build stability, CI pipeline health, and release readiness metrics.
+* Ensured compliance with ASPICE SWE.5 integration processes, supporting customer audits, internal assessments, and quality gates.
+* Acted as Integration Manager / Release Manager during ASPICE audits, third-party GAP analyses, and customer assessments.
+
+---
+
+### CI/CD, Build Infrastructure & Tools Development
+* Designed, developed, and maintained Python-based internal engineering tools supporting build, integration, and release automation.
+* PDX generation and OEM-specific software packaging.
+* Cryptographic signing workflows supporting automotive cybersecurity requirements.
+* Partial update improvements reducing PDX size for OTA-based flashing.
+* Build performance profiling tools to analyze CI pipeline bottlenecks.
+* Automated release notes generation integrating Jira, Git commit history, Jenkins pipelines, and release schedules.
+* Engineered and operated CI/CD infrastructure using Jenkins (CloudBees), Git/GitHub, CMake, Artifactory, Docker, and Kubernetes.
+* Supported containerized CI environments, ensuring scalability, stability, and compliance of build systems.
+* Integrated testing and quality tools including GTest, CTC, VectorCAST, and PRQA into CI pipelines.
+* Standardized build, configuration, integration, and release workflows across multiple automotive programs.
+
+---
+
+### Operations, Integration & Execution
+* Provided Level-2 support for CI/CD pipelines, build infrastructure, and internal engineering tools.
+* Set up and maintained HIL/SIL and smoke test infrastructures during early hardware and platform commissioning.
+* Defined and executed smoke tests, regression tests, data-flow tests, and dynamic timing tests using Python-based automation frameworks.
+* Performed software integration, debugging, and validation using tools such as Lauterbach (T32), Vector CANoe, and ODIS.
+* Produced and maintained technical documentation, integration procedures, and training material in Jira and Confluence.
+* Delivered training and onboarding sessions to enable adoption of CI/CD tooling and standardized integration processes.
+
+---
+
+### Profile Snapshot
+* **Master's Degree**
+* **VINOD KUMAR NEELAKANTAM**
+* **Software Integrator | CI/CD & Build Infrastructure | Engineering Tools & Automation**
+* **Address**: Von-Hunefeld Strasse 14, Neu Ulm, 89231, Germany
+* **Phone**: +49-15124711204
+* **Email**: vinodneelakantam@gmail.com
+
+---
+
+### Languages
+* English
+* German
+
+---
+
+### Personal Details
+* Date of Birth: 13 Jun 1987
+* Nationality: Indian
+* Visa Status: Niederlassungserlaubnis (PR) of Germany
+* Marital Status: Married
+
+---
+
+### Driving License
+* Class B
 
 ---
 
 ### 📫 Connect with Me
 * **LinkedIn**: [linkedin.com/in/vinodneelakantam](https://www.linkedin.com/in/vinodneelakantam)
+* **Email**: vinodneelakantam@gmail.com
+* **Phone**: +49-15124711204
 * **Location**: Neu Ulm, Germany 🇩🇪
