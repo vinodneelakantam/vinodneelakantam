@@ -63,7 +63,7 @@ Software Integrator with **12+ years of experience** in automotive embedded soft
 * **Master's Degree**
 * **VINOD KUMAR NEELAKANTAM**
 * **Software Integrator | CI/CD & Build Infrastructure | Engineering Tools & Automation**
-* **Address**: Von-Hunefeld Strasse 14, Neu Ulm, 89231, Germany
+* **Address**: Neu Ulm, 89231, Germany
 * **Phone**: +49-15124711204
 * **Email**: vinodneelakantam@gmail.com
 
@@ -72,19 +72,6 @@ Software Integrator with **12+ years of experience** in automotive embedded soft
 ### Languages
 * English
 * German
-
----
-
-### Personal Details
-* Date of Birth: 13 Jun 1987
-* Nationality: Indian
-* Visa Status: Niederlassungserlaubnis (PR) of Germany
-* Marital Status: Married
-
----
-
-### Driving License
-* Class B
 
 ---
 
